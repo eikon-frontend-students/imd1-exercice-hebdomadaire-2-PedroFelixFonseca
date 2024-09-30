@@ -1,0 +1,15 @@
+body {
+  font-family: Helvetica, sans-serif;
+}
+main {
+  margin: 50px;
+  max-width: 600px;
+  border-radius: 0 0 100px 0;
+  border: 4px solid black;
+  padding: 20px;
+  background-color: yellowgreen;
+}
+img {
+  max-width: 100%;
+  border-radius: 0 0 100px 0;
+}
